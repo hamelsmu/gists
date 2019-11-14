@@ -1,7 +1,1 @@
-pandas
-nbconvert
-jupyter-client
-wheel
-GitPython
-importnb
-IPython
+toolz
